@@ -9,5 +9,7 @@ Un blog para el curso de Git y Github
 * El verdadero amor por las buenas prácticas
 * Trucos del profesor
 * Creado por Erika
+* Incluye ejemplos en Window, Linux y Mac
+* Disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es una práctica**. Diseñado para el ejemplo. Este readme fue diseñado en el **[link](https://pandao.github.io/editor.md/en.html).
