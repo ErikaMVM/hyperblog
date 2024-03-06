@@ -8,5 +8,6 @@ Un blog para el curso de Git y Github
 * El flujo de trabao en GitHub
 * El verdadero amor por las buenas prácticas
 * Trucos del profesor
+* Creado por Erika
 
 Y como un amable recordatorio: **Este readme.md es una práctica**. Diseñado para el ejemplo. Este readme fue diseñado en el **[link](https://pandao.github.io/editor.md/en.html).
